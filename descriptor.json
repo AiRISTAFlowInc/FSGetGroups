@@ -2,7 +2,7 @@
   "name": "Get Groups",
   "type": "flogo:activity",
   "version": "0.0.1",
-  "title": "A1: Get Groups",
+  "title": "A2: Get Groups",
   "description": "Returns Array of Groups",
   "homepage": "https://github.com/AiRISTAFlowInc/FlowActivities/tree/main/GetGroups",
   "input": [
